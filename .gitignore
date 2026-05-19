@@ -13,7 +13,6 @@
 migrate_working_dir/
 
 # Environment variables with API keys
-.env
 
 # IntelliJ related
 *.iml
@@ -46,3 +45,5 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+config.bat
+node_modules
